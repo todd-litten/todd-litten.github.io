@@ -1,0 +1,85 @@
+body {
+	font-family: arial;
+	color: black;
+	background-color: white;
+	}
+
+.bloglogo {
+	display: inline-block;
+}
+
+#header {
+	width: 100%;
+	float: left;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+#list {
+	width: 100%;
+	float: left;
+	padding-top: 1em;
+}
+
+#posts {
+	width: 100%;
+	float: left;
+	}
+
+#list a {
+	display: block;
+	padding-left: 2em;
+}
+
+.post {
+	display: block;
+	padding-left: 2em;
+	padding-right: 2em;
+}
+
+.closing {
+	margin-left: 2em;
+}
+
+
+@media (min-width: 992px) {
+
+
+#navigation {
+	float: right;
+	margin-right: 5em;
+	margin-top: 3em;
+
+}
+
+nav li {
+	display: inline;
+	padding: 1em;
+
+}
+
+#list {
+	width: 33%;
+	float: left;
+	padding-top: 1em;
+}
+
+#posts {
+	width: 66%;
+	float: left;
+	}
+
+	#list a {
+	display: block;
+	padding-left: 2em;
+}
+
+#posts p {
+	display: block;
+	padding-right: 1em;
+}
+
+.closing {
+	margin-left: 2em;
+}
+}
