@@ -38,50 +38,6 @@ nav li a { color: #C0AA7E; }
 
 .middletext {background-color: white; 
 	float: left;
-	width: 100%;}
-
-.middletext p {
-	color: black;
-	margin-left: auto;
-	margin-right: auto;
-
-}
-
-
-.middletext h2 {
-	margin-left: auto;
-	margin-right: auto;
-	padding: .5em 4em;
-}
-
-.middletext p {
-	padding: .5em 4em;
-}
-
-footer {
-	float: left;
-	width:100%;
-	background-color: #380803;
-	color: #C0AA7E;
-	text-align: center;}
-
-footer p {
-	padding: 2em;
-	
-}
-
-@media (min-width: 992px) {
-
-nav {
-	clear: both;
-	color: ffffff;
-	background-color: #380803;
-	height: 40px;
-	text-align: center;
-}
-.middletext {
-	background-color: white; 
-	float: left;
 	width: 50%;}
 
 .middletext p {
@@ -106,11 +62,7 @@ footer {
 
 footer p {
 	padding: 2em;
-
-}
 	
-}
-
-		
+}	
 
 

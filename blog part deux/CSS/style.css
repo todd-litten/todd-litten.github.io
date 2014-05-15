@@ -4,15 +4,13 @@ body {
 	background-color: white;
 	}
 
-.bloglogo {
-	display: inline-block;
-}
+
 
 #header {
 	width: 100%;
-	float: left;
 	margin-left: 2em;
 	margin-right: 2em;
+	position: relative;
 }
 
 #list {
@@ -49,10 +47,12 @@ body {
 	float: right;
 	margin-right: 5em;
 	margin-top: 3em;
+	
 
 }
 
 nav li {
+
 	display: inline;
 	padding: 1em;
 
